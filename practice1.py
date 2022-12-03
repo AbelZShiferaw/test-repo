@@ -1,4 +1,4 @@
-# This is my first Python program
+
 
 print("This application will calculate your date of birth based on your age!")
 
@@ -12,7 +12,7 @@ def dob_calculater(age):
     dob = 2022 - int(age)
     return dob
 
-
+# new line
 dob_calculater()
 
 print(name + ", you were born in " + str(dob))
